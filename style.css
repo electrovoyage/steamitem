@@ -32,6 +32,7 @@
     color: white; /* Button text color */
     border: none; /* Remove border */
     padding: 10px; /* Padding inside buttons */
+    margin: 10px;
     /*left: 20px;*/
     position: relative;
     font-family: lexend;
