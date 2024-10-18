@@ -65,9 +65,9 @@
 
 @font-face {
     font-family: 'lexend';
-    src:url('https://tpecool.github.io/assets/fonts/Lexend-Regular.woff2') format('woff2'),
-        url('https://tpecool.github.io/assets/fonts/Lexend-Regular.woff') format('woff'),
-        url('https://tpecool.github.io/assets/fonts/Lexend-Regular.ttf') format('truetype'),
+    src:url('https://electrovoyage.github.io/assets/fonts/Lexend-Regular.woff2') format('woff2'),
+        url('https://electrovoyage.github.io/assets/fonts/Lexend-Regular.woff') format('woff'),
+        url('https://electrovoyage.github.io/assets/fonts/Lexend-Regular.ttf') format('truetype'),
         /*GitHub Pages fixes*/
         url('Lexend-Regular.woff2') format('woff2'),
         url('Lexend-Regular.woff') format('woff'),
