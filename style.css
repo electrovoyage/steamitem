@@ -52,9 +52,9 @@
 
 @font-face {
     font-family: 'lexend';
-    src:url('https://tpecool.github.io/cdn/fonts/Lexend-Bold.woff2') format('woff2'),
-        url('https://tpecool.github.io/cdn/fonts/Lexend-Bold.woff') format('woff'),
-        url('https://tpecool.github.io/cdn/fonts/Lexend-Bold.ttf') format('truetype'),
+    src:url('https://electrovoyage.github.io/cdn/fonts/Lexend-Bold.woff2') format('woff2'),
+        url('https://electrovoyage.github.io/cdn/fonts/Lexend-Bold.woff') format('woff'),
+        url('https://electrovoyage.github.io/cdn/fonts/Lexend-Bold.ttf') format('truetype'),
         /*GitHub Pages fixes*/
         url('Lexend-Bold.woff2') format('woff2'),
         url('Lexend-Bold.woff') format('woff'),
